@@ -7,6 +7,12 @@
 - 依照餐廳名稱及餐廳類別搜尋
 - 檢視餐廳詳細資訊包含類別、地址、電話、評分、圖片及 Google Map
 
+### 環境建置與需求
+
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/) - 應用程式架構
+- [Express-Handlebars](https://www.npmjs.com/package/express-handlebars) - 模板引擎
+
 ### 安裝
 
 1. 打開你的 terminal，Clone 此專案至本機電腦
